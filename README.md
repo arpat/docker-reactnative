@@ -14,6 +14,8 @@ Docker, a running xorg session.
 
 The Dockerfile expects ./android-studio-ide-latest.zip
 
+Build with `$ docker build -t react-native .`
+
 #### Running the IDE
 
 Assuming you are running from an xterm like console run with
